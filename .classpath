@@ -45,7 +45,7 @@
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/joda-time-2.0.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/mysql-connector-java-5.1.17.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-lang-2.6.jar"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_51">
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.6.0_45">
 		<attributes>
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
