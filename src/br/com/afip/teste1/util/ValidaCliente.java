@@ -45,6 +45,8 @@ public class ValidaCliente {
 	
 	/** Como se trata de um teste, apenas realizei a validação de números do campo CPF
 	  Caberia neste metodo criar um validação real de CPF.
+	  Não implementei a validação do CPF propositalmente, pois no momento dos testes inserir um 
+	  CPF valido talvez fosse um inconveniente.
 	 **/
 	private boolean validaCPF(){		
 		try {
